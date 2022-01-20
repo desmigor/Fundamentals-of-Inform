@@ -1,2 +1,2 @@
-# Fundamentals-of-Inform
-Funndamentals of Info Security
+# Fundamentals-of-Inform-Security
+Fundamentals of Info Security
