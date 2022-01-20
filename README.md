@@ -1,2 +1,2 @@
-# Fundamentals-of-Inform-Security
-Fundamentals of Info Security
+# Fundamentals of Information Security
+S22 Course given at Innopolis University
